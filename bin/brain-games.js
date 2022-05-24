@@ -2,4 +2,4 @@
 
 import askName from '../src/cli.js';
 
-console.log(askName()); 
+console.log(askName());
