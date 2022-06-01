@@ -2,3 +2,5 @@
 [![Actions Status](https://github.com/AnastasiyaBachinina/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/AnastasiyaBachinina/frontend-project-lvl1/actions)
 [![NodeCI](https://github.com/AnastasiyaBachinina/frontend-project-lvl1/workflows/NodeCI/badge.svg)](https://github.com/AnastasiyaBachinina/frontend-project-lvl1/actions/workflows/nodejs.yml)
 <a href="https://codeclimate.com/github/AnastasiyaBachinina/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
+
+https://asciinema.org/connect/cb6e3b3e-4767-4c8a-a34e-8cd18871732c # brain-even asciinema record
