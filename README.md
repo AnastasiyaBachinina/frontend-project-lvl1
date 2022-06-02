@@ -4,3 +4,4 @@
 <a href="https://codeclimate.com/github/AnastasiyaBachinina/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 
 https://asciinema.org/connect/cb6e3b3e-4767-4c8a-a34e-8cd18871732c # brain-even asciinema record
+https://asciinema.org/a/iJaio84MzYGy0KyuTuqw38m2t # brain-calc asciinema record
