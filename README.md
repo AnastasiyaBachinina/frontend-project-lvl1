@@ -5,3 +5,4 @@
 
 https://asciinema.org/connect/cb6e3b3e-4767-4c8a-a34e-8cd18871732c # brain-even asciinema record
 https://asciinema.org/a/iJaio84MzYGy0KyuTuqw38m2t # brain-calc asciinema record
+https://asciinema.org/a/oXCUFh9OIyb8IFfpDUrZMRz4O # brain-gcd asciinema record
