@@ -19,13 +19,22 @@
 
 ### Games overviews:
 
-**brain-even asciinema**
+**Even or not**
+
 [![asciicast](https://asciinema.org/a/fU0xRnO2dlscNsXvRCdned3YK.svg)](https://asciinema.org/a/fU0xRnO2dlscNsXvRCdned3YK)
-**brain-calc asciinema**
+
+**Calculator**
+
 [![asciicast](https://asciinema.org/a/iJaio84MzYGy0KyuTuqw38m2t.svg)](https://asciinema.org/a/iJaio84MzYGy0KyuTuqw38m2t)
-**brain-gcd asciinema**
+
+**Greatest common divisor**
+
 [![asciicast](https://asciinema.org/a/oXCUFh9OIyb8IFfpDUrZMRz4O.svg)](https://asciinema.org/a/oXCUFh9OIyb8IFfpDUrZMRz4O)
-**brain-progression asciinema**
+
+**Arithmetic progression**
+
 [![asciicast](https://asciinema.org/a/DhWICbrLRvCPPjEmkRLTEG6VG.svg)](https://asciinema.org/a/DhWICbrLRvCPPjEmkRLTEG6VG)
-**brain-prime asciinema**
+
+**Prime or not**
+
 [![asciicast](https://asciinema.org/a/Yo9jnKaPfDld25T0Sr6jFXubi.svg)](https://asciinema.org/a/Yo9jnKaPfDld25T0Sr6jFXubi)
