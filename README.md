@@ -19,7 +19,7 @@
 
 ### Games overviews:
 
-**Even or not**
+**Even or not + setup**
 
 [![asciicast](https://asciinema.org/a/fU0xRnO2dlscNsXvRCdned3YK.svg)](https://asciinema.org/a/fU0xRnO2dlscNsXvRCdned3YK)
 
