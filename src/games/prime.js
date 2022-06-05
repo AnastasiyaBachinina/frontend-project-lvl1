@@ -7,20 +7,18 @@ const isPrime = (number) => {
   if (number < 2) {
     return false;
   }
-  let divider = 2;
-  while (divider <= number / 2) {
-    if (number % divider === 0) {
+
+  for (let i = 2; i <= number / 2; i += 1) {
+    if (number % i === 0) {
       return false;
     }
-    divider += 1;
   }
   return true;
 };
 
 const makeRound = () => {
-  const randomNumber = getRandomNumber(1, 100);
-  const question = `${randomNumber}`;
-  const correctAnswer = isPrime(randomNumber) ? 'yes' : 'no';
+  const question = getRandomNumber(1, 100);
+  const correctAnswer = isPrime(question) ? 'yes' : 'no';
   return [question, correctAnswer];
 };
 
