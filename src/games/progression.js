@@ -4,14 +4,14 @@ import getRandomNumber from '../getRandomNumber.js';
 const gameRules = 'What number is missing in the progression?';
 
 const generateProgression = (progressionStart, progressionStep, progressionLength) => {
-  const resultMassive = [];
+  const progression = [];
   let currentValue = progressionStart;
 
   for (let i = 0; i <= progressionLength; i += 1) {
-    resultMassive.push(currentValue);
+    progression.push(currentValue);
     currentValue += progressionStep;
   }
-  return resultMassive;
+  return progression;
 };
 
 const makeRound = () => {
